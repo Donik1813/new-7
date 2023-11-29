@@ -5,4 +5,9 @@
 __________
 ---------
 **This is bold text**
+
 ~~Strikethrough~~
+
++list
+
+-list2
