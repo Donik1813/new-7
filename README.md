@@ -8,6 +8,6 @@ __________
 
 ~~Strikethrough~~
 
-+list
++ list
 
--list2
+- list2
