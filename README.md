@@ -5,3 +5,4 @@
 __________
 ---------
 **This is bold text**
+~~Strikethrough~~
